@@ -1,0 +1,40 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: #FDE3D9;
+    top: 0px;
+}
+
+h1 {
+top: 33px;
+left: 41px;
+width: 194px;
+height: 62px;
+/* UI Properties */
+background: transparent url('Cat-N-Dog-Logo\ copy@2x.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.navbar {
+    top: 48px;
+    left: 1171px;
+    width: 34px;
+    height: 14px;
+    /* UI Properties */
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    letter-spacing: 0px;
+    color: #F7F7F7;
+    opacity: 1;
+}
+.image {
+    top: 0px;
+    left: 720px;
+    width: 720px;
+    height: 810px;
+    /* UI Properties */
+    background: transparent url('Group\ 2@2x.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    float: right;
+}
+
